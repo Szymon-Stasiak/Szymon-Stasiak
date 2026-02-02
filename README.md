@@ -3,24 +3,6 @@
 
 <hr/>
 
-### About Me
-
-I am a *Software Developer* and AI/ML Engineer dedicated to merging robust system architecture with cutting-edge
-intelligence. With a strong foundation in algorithmic problem-solving and extensive experience as a Fullstack Developer
-in the Fintech sector, I build high-performance applications where precision and scalability are paramount.
-Driven by a desire to innovate, I am currently focused on:
-
-* ⚙️ **Algorithmic Engineering:** Leveraging a deep passion for algorithms to build optimized, fullstack solutions for
-  complex industries.
-
-+ 🧠 **Fintech Innovation:** Bridging the gap between traditional financial architectures and advanced machine learning
-  models.
-
-* 🤖 **Autonomous Agents:** Developing intelligent systems that reason and automate workflows within scalable
-  environments.
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
@@ -41,11 +23,6 @@ Driven by a desire to innovate, I am currently focused on:
   <img src="https://img.shields.io/badge/Computer%20Vision-0078D7?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szymon-Stasiak&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
 
 ---
 
